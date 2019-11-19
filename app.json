@@ -1,0 +1,8 @@
+{
+  "name": "deepLinking",
+  "displayName": "deepLinking",
+
+  "expo": {
+    "scheme": "myapp"
+  }
+}
